@@ -1,5 +1,5 @@
 public class Main {
-	public static void main(String[] args) {
-	System.out.println("Cambio realizado en masterrr");
-	}
+    public static void main(String[] args) {
+        System.out.println("Conflicto resuelto correctamente");
+    }
 }
